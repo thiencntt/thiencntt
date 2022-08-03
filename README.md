@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<h1><p align="center"> 👋 Hi there 👋 </p></h1>
+<p align="center">
+ <img width="30%" src="https://avatars.githubusercontent.com/u/45612350">
+</p>
+  
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiencntt&layout=compact&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiencntt&theme=radical"></p>
+</p>
 <!--
 **thiencntt/thiencntt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
