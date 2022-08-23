@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thiencntt&theme=radical"></p>
 </p>
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 1. [Bot FarmersWorld](https://minewax.com/fw/) - It's FREE for now, in future you must pay to run
 2. FarmersWorld Bot - Anchor Wallet - Coding
 3. [Monitor FarmersWorld](https://fwmonitor.vercel.app) - It's FREE for now, in future you must pay to run
@@ -19,6 +19,8 @@
 6. Bot Ancient Realms - Coding
 7. Bot Age of Farming - Coding
 
+🌱 I’m currently learning ![python_version](https://img.shields.io/badge/python-%3E%3D%203.10-brightgreen)
+📫 How to reach me: fb.com/thiencntt
 
 <!--
 **thiencntt/thiencntt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
