@@ -15,7 +15,7 @@
 2. FarmersWorld Bot - Anchor Wallet - Coding
 3. [Monitor FarmersWorld](https://fwmonitor.vercel.app) - It's FREE for now, in future you must pay to run
 4. Bot AlienWorlds Python Open source (Private sharing group) - Develop from https://github.com/encoderlee/OpenAlien
-5. [Monitor AlienWorlds](https://tlm.vercel.app) - It's FREE for now, in future you must pay to run - Develop from [https://github.com/encoderlee/OpenAlien](https://github.com/VectorXz/alienworlds_acc_monitor)
+5. [Monitor AlienWorlds](https://tlm.vercel.app) - It's FREE for now, in future you must pay to run - Develop from https://github.com/VectorXz/alienworlds_acc_monitor
 6. Bot Ancient Realms - Coding
 7. Bot Age of Farming - Coding
 
