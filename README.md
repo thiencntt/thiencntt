@@ -20,6 +20,7 @@
 7. Bot Age of Farming - Coding
 
 🌱 I’m currently learning: Javascript, Python
+
 📫 How to reach me: fb.com/thiencntt
 
 <!--
