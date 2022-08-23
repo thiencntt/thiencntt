@@ -1,15 +1,4 @@
 <h1><p align="center"> 👋 Hi there 👋 </p></h1>
-<p align="center">
- <img width="30%" src="https://avatars.githubusercontent.com/u/45612350">
-</p>
-  
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiencntt&layout=compact&theme=radical">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiencntt&theme=radical"></p>
-</p>
-
 🔭 I’m currently working on ...
 1. [Bot FarmersWorld](https://minewax.com/fw/) - It's FREE for now, in future you must pay to run
 2. FarmersWorld Bot - Anchor Wallet - Coding
@@ -22,6 +11,16 @@
 🌱 I’m currently learning: Javascript, Python
 
 📫 How to reach me: fb.com/thiencntt
+
+<p align="center">
+ <img width="10%" src="https://avatars.githubusercontent.com/u/45612350">
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiencntt&layout=compact&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiencntt&theme=radical"></p>
+</p>
 
 <!--
 **thiencntt/thiencntt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
