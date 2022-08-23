@@ -19,7 +19,7 @@
 6. Bot Ancient Realms - Coding
 7. Bot Age of Farming - Coding
 
-🌱 I’m currently learning ![python_version](https://img.shields.io/badge/python-%3E%3D%203.10-brightgreen)
+🌱 I’m currently learning: Javascript, Python
 📫 How to reach me: fb.com/thiencntt
 
 <!--
