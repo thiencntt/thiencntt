@@ -12,6 +12,8 @@
 
 🌱 I’m currently learning: Javascript, Python
 
+💬 Ask me here: https://github.com/thiencntt/thiencntt/issues/1
+
 📫 How to reach me: fb.com/thiencntt
 
 <p align="center">
