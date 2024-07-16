@@ -2,15 +2,12 @@
 
 🔭 I’m currently working on ...
 
-1. [Bot FarmersWorld](https://minewax.com/fw/) - It's FREE for now, in future you must pay to run
-2. FarmersWorld Bot - Anchor Wallet - Coding
-3. [Monitor FarmersWorld](https://fwmonitor.vercel.app) - It's FREE for now, in future you must pay to run
-4. Bot AlienWorlds Python Open source (Private sharing group) - Develop from https://github.com/encoderlee/OpenAlien
-5. [Monitor AlienWorlds](https://tlm.vercel.app) - It's FREE for now, in future you must pay to run - Develop from https://github.com/VectorXz/alienworlds_acc_monitor
-6. Bot Ancient Realms - Coding
-7. Bot Age of Farming - Coding
+1. Teaching
+2. Coding
+3. Gaming
+4. Planting
 
-🌱 I’m currently learning: Javascript, Python
+🌱 I’m currently coding: Javascript, Python, C#, C++, HTML
 
 💬 Ask me here: https://github.com/thiencntt/thiencntt/issues/1
 
